@@ -1,0 +1,9 @@
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\TCPIPDemo\Client\bin\Debug\Client.exe.config
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\TCPIPDemo\Client\bin\Debug\Client.exe
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\TCPIPDemo\Client\bin\Debug\Client.pdb
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\TCPIPDemo\Client\bin\Debug\SimpleTCP.dll
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\TCPIPDemo\Client\obj\Debug\Client.Form1.resources
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\TCPIPDemo\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\TCPIPDemo\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\TCPIPDemo\Client\obj\Debug\Client.exe
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\TCPIPDemo\Client\obj\Debug\Client.pdb

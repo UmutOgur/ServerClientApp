@@ -1,0 +1,10 @@
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\TCPIPDemo\TCPIPDemo\bin\Debug\TCPIPDemo.exe.config
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\TCPIPDemo\TCPIPDemo\bin\Debug\TCPIPDemo.exe
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\TCPIPDemo\TCPIPDemo\bin\Debug\TCPIPDemo.pdb
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\TCPIPDemo\TCPIPDemo\bin\Debug\SimpleTCP.dll
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\TCPIPDemo\TCPIPDemo\obj\Debug\TCPIPDemo.csprojResolveAssemblyReference.cache
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\TCPIPDemo\TCPIPDemo\obj\Debug\TCPIPDemo.Server.resources
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\TCPIPDemo\TCPIPDemo\obj\Debug\TCPIPDemo.Properties.Resources.resources
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\TCPIPDemo\TCPIPDemo\obj\Debug\TCPIPDemo.csproj.GenerateResource.Cache
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\TCPIPDemo\TCPIPDemo\obj\Debug\TCPIPDemo.exe
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\TCPIPDemo\TCPIPDemo\obj\Debug\TCPIPDemo.pdb
